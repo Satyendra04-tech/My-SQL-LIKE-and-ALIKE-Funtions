@@ -79,4 +79,6 @@ ORDER BY last_name;
 SELECT COUNT(*) FROM T1
 WHERE first_name LIKE 'A%' AND last_name NOT LIKE 'B%'
 ORDER BY last_name;
-``` 
+```  
+
+## That's it for the ORDER BY functions, see you in the next chapter !!
