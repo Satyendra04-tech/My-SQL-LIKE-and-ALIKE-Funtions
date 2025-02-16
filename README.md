@@ -81,4 +81,4 @@ WHERE first_name LIKE 'A%' AND last_name NOT LIKE 'B%'
 ORDER BY last_name;
 ```  
 
-## That's it for the ORDER BY functions, see you in the next chapter !!
+## That's it for the LIKE and ILIKE functions, see you in the next chapter !!
